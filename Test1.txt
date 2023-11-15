@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Test 1
 Test 2
 Test 3
@@ -7,3 +8,6 @@ Test 6
 
 Test confilt
 Test conflict
+=======
+Test1 test2
+>>>>>>> Test
